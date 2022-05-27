@@ -1,0 +1,2 @@
+const char *ssid = "MiFibra-044E";     // Your WiFi SSID "MiFibra-044E"
+const char *password = "S27o9gND"; // Your WiFi Password "S27o9gND"
